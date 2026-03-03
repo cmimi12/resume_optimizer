@@ -1,6 +1,6 @@
 # 📝 Resume Optimizer
 
-An AI-assisted Streamlit app that parses your resume, extracts skills, and compares them against a job description — giving you an instant match score and a list of missing skills to work on.
+An AI-assisted Streamlit app that parses your resume, extracts skills, and compares them against a job description, giving you an instant match score and a list of missing skills to work on.
 
 > 🤖 Built with the assistance of Claude (Anthropic)
 
